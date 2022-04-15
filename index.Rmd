@@ -1,4 +1,4 @@
---- 
+---
 title: "A Minimal Book Example"
 author: "John Doe"
 date: "`r Sys.Date()`"
