@@ -7,8 +7,6 @@ Authors@R:
 Description: What the package does (one paragraph).
 License: MIT + file LICENSE
 Imports:
-    mathjaxr
 Encoding: UTF-8
 RoxygenNote: 7.1.2
-RdMacros: mathjaxr
 Roxygen: list(markdown = TRUE)
