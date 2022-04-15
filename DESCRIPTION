@@ -7,6 +7,9 @@ Authors@R:
 Description: What the package does (one paragraph).
 License: MIT + file LICENSE
 Imports:
+Suggests: rmarkdown, bookdown, 
+    JOPS, ggplot2,
+    SemiPar, fields, spam
 Encoding: UTF-8
 RoxygenNote: 7.1.2
 Roxygen: list(markdown = TRUE)
