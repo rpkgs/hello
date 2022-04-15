@@ -1,4 +1,8 @@
-^hello\.Rproj$
+^.*\.Rproj$
 ^\.Rproj\.user$
 ^LICENSE\.md$
-^test$
+^.*\.Rmd$
+^.*\.bib$
+^.*\.yml$
+^scripts$
+^latex$
